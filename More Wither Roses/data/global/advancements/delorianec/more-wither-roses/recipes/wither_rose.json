@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Wither rose.",
+        "description": "§6#§2 - poppy \n§6$§2 - Wither Skeleton Skull \n\n§6###\n#$#\n### \n\n§2Also you can obtain wither rose as rare drop from wither skeleton.",
+        "icon": {
+            "item": "wither_rose"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:delorianec/more-wither-roses/recipes",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

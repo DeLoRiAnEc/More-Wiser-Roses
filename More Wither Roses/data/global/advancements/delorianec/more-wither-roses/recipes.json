@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Datapack recipes.",
+        "description": "Here you can find recipes added by this datapack.",
+        "icon": {
+            "item": "crafting_table"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:delorianec/more-wither-roses",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
